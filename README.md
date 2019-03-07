@@ -1,5 +1,15 @@
 # Portuguese Bank Data Analysis
 
+# Financial Benefits:
+
+Saves hours of Human Resourse as they have to contact a less number of people.
+
+Saves Communication cost of contacting preferred person rather than all random person. 
+
+More chances of getting a positive reply in less time as only the preferred person are contacted which has more probability of giving a positive reply.
+
+
+
 The Project is based on Portuguese bank Data that is analysed as follows:
 
 # Input :
@@ -87,7 +97,3 @@ The time is much saved when this model is used for further campaigns as so much 
 
 The Marketing Expenditure is saved by using this model as less human resourse is used up also less time is used and better results are obtained rather than contacting a Random person.
 
-# Financial Benefits:
-
-Saves hours of Human Resourse as they have to contact a less number of people.
-Saves Communication cost of contacting preferred person rather than all random person. 
