@@ -59,7 +59,7 @@ Social and economic context attributes
 
 # Analysis :
 
-Preferred Group(s) to be Contacted for Better Results in less Expenditure Respectively:
+Preferred Group(s) or Attributes(s) to be Contacted for Better Results in less Expenditure Respectively:
 
 Age : Best age group to contact is 20 to 35 yrs And Above 55 yrs.
 
