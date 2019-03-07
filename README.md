@@ -86,3 +86,8 @@ Output.csv : Time_Wasted - The time that is wasted in contacting the person not 
 The time is much saved when this model is used for further campaigns as so much is time is saved when we contact the right persons only which can be seen from the output. So contacting the preferrred person will lead to great output in less expenditure.
 
 The Marketing Expenditure is saved by using this model as less human resourse is used up also less time is used and better results are obtained rather than contacting a Random person.
+
+# Financial Benefits:
+
+Saves hours of Human Resourse as they have to contact a less number of people.
+Saves Communication cost of contacting preferred person rather than all random person. 
