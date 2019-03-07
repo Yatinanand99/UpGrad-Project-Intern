@@ -84,7 +84,8 @@ Loan : (no)
 Contact : (cellular)
 
 
-Output: Images of Graphs(Histograms) to study the various Responses.
+# Output: 
+Images of Graphs(Histograms) to study the various Responses.
 
 Output.csv : Time_Wasted - The time that is wasted in contacting the person not preferred, Failure_Rate - The possibility of getting a NO when a person not preferred is contacted.
 
