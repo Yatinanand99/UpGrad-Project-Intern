@@ -8,10 +8,6 @@ Saves Communication cost of contacting preferred person rather than all random p
 
 More chances of getting a positive reply in less time as only the preferred person are contacted which has more probability of giving a positive reply.
 
-
-
-The Project is based on Portuguese bank Data that is analysed as follows:
-
 # Input :
 The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed. Contains 41000+ Rows.
 
